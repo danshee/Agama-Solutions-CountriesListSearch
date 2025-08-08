@@ -1,5 +1,5 @@
 //
-//  NetworkError.swift
+//  Network.swift
 //  CountriesListSearch
 //
 //  Created by Daniel Pietsch on 6/10/25.
